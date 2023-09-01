@@ -1,5 +1,5 @@
 import "./Banner.scss";
-import Bannerimg from "";
+import Bannerimg from "src/assets/Backup/home-bg.webp";
 const Banner = () => {
     return <div className="hero-banner">
         <div className="content">
